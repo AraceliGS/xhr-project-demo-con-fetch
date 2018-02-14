@@ -1,10 +1,10 @@
-# **XHR Project Demo**
+# **XHR Project Demo con fetch**
 
 ![Página Web](assets/images/website.JPG)
 
 ## **Objetivo**
 
-Esta aplicación web tiene como objetivo brindar un artículo al usuario según la palabra clave que haya ingresado en el buscador.
+Esta aplicación web tiene como objetivo brindar un artículo al usuario según la palabra clave que haya ingresado en el buscador utlizando la API Fetch.
 
 ## **Herramientas Tecnológicas**
 
@@ -16,7 +16,7 @@ Esta aplicación web tiene como objetivo brindar un artículo al usuario según 
 
 * AJAX
 
-* XHR
+* Fetch
 
 * API del diario New York Times(me permite acceder a los artículos de su base de datos.)
 
